@@ -1,1 +1,1 @@
-A program that works only through the terminal. Can add, delete, display, etc. *products. Also there is saving and loading. (beginner level c++).
+A program that works only through the terminal. Can add, delete, display, etc. *products.(beginner level c++).
